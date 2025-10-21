@@ -4,7 +4,9 @@ A simple Windows Forms Application that allows users to find real-world addresse
 This desktop tool integrates with the Google Geocoding API to quickly retrieve and display location information in an intuitive interface.
 
 🚀 Features
+
 ✅ Input latitude and longitude to find a detailed address
+
 🌐 Uses Google Address (Geocoding) API for accurate results
 💻 Built with C# and Windows Forms
 📦 Lightweight and easy-to-use desktop application
