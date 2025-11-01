@@ -3,7 +3,7 @@
 A simple Windows Forms Application that allows users to find real-world addresses using latitude and longitude coordinates.
 This desktop tool integrates with the Google Geocoding API to quickly retrieve and display location information in an intuitive interface.
 
-
+---------------------------------
 
 🚀 Features
 
@@ -17,7 +17,7 @@ This desktop tool integrates with the Google Geocoding API to quickly retrieve a
 
 🧭 Displays formatted address and location details
 
-
+-----------------------------------
 
 🧩 Technologies Used
 
@@ -28,7 +28,7 @@ This desktop tool integrates with the Google Geocoding API to quickly retrieve a
 | **API**          | Google Geocoding API          |
 | **IDE**          | Visual Studio                 |
 
-
+----------------------------------
 
 🖼️ Example
 
@@ -36,7 +36,7 @@ This desktop tool integrates with the Google Geocoding API to quickly retrieve a
 | --------------------------------------------------- | ----------------------------------------------------------------------- |
 | Latitude: `40.748817`  <br> Longitude: `-73.985428` | Address: *Empire State Building, 20 W 34th St, New York, NY 10001, USA* |
 
-
+-----------------------------------
 
 🧠 Future Enhancements
 
